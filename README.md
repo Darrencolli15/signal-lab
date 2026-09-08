@@ -1,5 +1,5 @@
 # Signal Lab
-An audio DSP project scaffold prepared for Darren Lu with AI assistance.
+An audio DSP project scaffold by Darren Lu.
 
 ## Run the web workbench
 Run `python3 -m http.server 8000`, then open localhost:8000.
